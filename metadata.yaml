@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '9530'
     url: http://www.gutenberg.org/2009/agents/9530
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44727#Wanderings-in-Corsica-Vol.-1-of-2Its-History-and-Its-Heroes
 gutenberg_issued: '2014-01-22'
 gutenberg_type: Text
 identifiers:
